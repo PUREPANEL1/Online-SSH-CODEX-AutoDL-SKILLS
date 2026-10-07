@@ -1,4 +1,0 @@
-interface:
-  display_name: "/Online-SSH"
-  short_description: "Set up SSH keys and open a terminal for server login."
-  default_prompt: "Use $online-ssh to generate local SSH keys, guide public-key installation, verify passwordless login, and automatically open the right-side terminal with connection guidance."
